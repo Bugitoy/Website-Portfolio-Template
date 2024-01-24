@@ -474,6 +474,6 @@ If you want to add an icon to the project list
         grid-template-columns: repeat(2, 1fr);
     }
     .portfolio-box .portfolio-info{
-        padding: 0 2rem;
+        padding: 0 0.1rem;
     }
 }
