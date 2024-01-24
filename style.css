@@ -473,11 +473,9 @@ If you want to add an icon to the project list
     .portfolio-container{
         grid-template-columns: repeat(2, 1fr);
     }
-    .portfolio-box .portfolio-info h4{
-        text-align: center;
-    }
+    
     .portfolio-box .portfolio-info p{
         text-align: center;
-        padding: 0 0.2rem;
+        padding: 0 0.1rem;
     }
 }
